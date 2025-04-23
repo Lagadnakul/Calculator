@@ -1,7 +1,7 @@
 # Calculator Web Application
 
 A simple and interactive calculator web application built using React and TailwindCSS. This project is designed to perform basic arithmetic operations and maintain a history of calculations.
-
+![Calculator Homepage](./src/assets/Homepage.png)
 ## Features
 
 - Perform basic arithmetic operations: addition, subtraction, multiplication, and division.
